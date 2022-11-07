@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">listadecompras</string>
+    <string-array name="categoria">
+        <item>Categoria</item>
+        <item>Jardin</item>
+        <item>Bar</item>
+        <item>Cocina</item>
+        <item>Decorativo</item>
+        <item>Relojes</item>
+    </string-array>
+
+    <string-array name="producto">
+        <item>Producto</item>
+        <item>Alcuza</item>
+        <item>Especiero</item>
+        <item>Relog caballo</item>
+        <item>Relog cierra</item>
+        <item>Tractor</item>
+        <item>Tren</item>
+        <item>Barril</item>
+        <item>Chelero</item>
+        <item>Candelabros</item>
+        <item>Perchero caballo</item>
+    </string-array>
+</resources>
